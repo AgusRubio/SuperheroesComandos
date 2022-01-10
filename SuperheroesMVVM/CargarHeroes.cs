@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SuperheroesMVVM
 {
-    class CargarHeroes : ObservableObject
+    class CargarHeroes
     {
         public static List<Superheroe> GetSamples()
         {
